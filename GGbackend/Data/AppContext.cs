@@ -12,4 +12,5 @@ using Microsoft.EntityFrameworkCore;
         }
 
         public DbSet<User> User { get; set; } = default!;
+        public DbSet<ActionCard> ActionCard { get; set; } = default!;
     }
