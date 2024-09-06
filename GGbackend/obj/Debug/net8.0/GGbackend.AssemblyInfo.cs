@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GGbackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93c6505e4c37dfc62b00e579a03dfb1d1e2accb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f72061db0ddfabcadedbc36f98113757f5abda19")]
 [assembly: System.Reflection.AssemblyProductAttribute("GGbackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GGbackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

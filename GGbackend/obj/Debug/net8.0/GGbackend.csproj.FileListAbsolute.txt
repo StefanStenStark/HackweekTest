@@ -252,3 +252,5 @@
 /Users/salt-dev/Coding/Tests/HackweekTest/GGbackend/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
 /Users/salt-dev/Coding/Tests/HackweekTest/GGbackend/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
 /Users/salt-dev/Coding/Tests/HackweekTest/GGbackend/obj/Debug/net8.0/GGbackend.sourcelink.json
+/Users/salt-dev/Coding/Tests/HackweekTest/GGbackend/obj/Debug/net8.0/GGbackend.RazorAssemblyInfo.cache
+/Users/salt-dev/Coding/Tests/HackweekTest/GGbackend/obj/Debug/net8.0/GGbackend.RazorAssemblyInfo.cs
